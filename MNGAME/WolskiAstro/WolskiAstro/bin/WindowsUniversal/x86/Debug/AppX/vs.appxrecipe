@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-NQU7LIF</Machine>
+    <WindowsUser>Czarny</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>4dfa9039-3fac-47ef-aca5-bc6f8564f920</PackageIdentityName>
+    <PackageIdentityPublisher>CN=User</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>DC093A9C48C76583EAAE33F8B9ECF33CA1DBD6A1AB0236AFD03BA8E2D96CCD95</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4dfa9039-3fac-47ef-aca5-bc6f8564f920_1.0.0.0_x86__4sdaedqydyjdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4dfa9039-3fac-47ef-aca5-bc6f8564f920_4sdaedqydyjdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4dfa9039-3fac-47ef-aca5-bc6f8564f920</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-06-05T16:08:07.015</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\WolskiAstro.exe">
+      <PackagePath>entrypoint\WolskiAstro.exe</PackagePath>
+      <Modified>2021-06-05T16:08:06.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\monogame.framework.windowsuniversal\3.8.0.1641\lib\uap10.0\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2020-08-10T14:17:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-07-22T12:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx\4.0.1\lib\uap10.0\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2017-05-30T08:02:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx.direct2d1\4.0.1\lib\uap10.0\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2017-05-30T08:03:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx.direct3d11\4.0.1\lib\uap10.0\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2017-05-30T08:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx.dxgi\4.0.1\lib\uap10.0\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2017-05-30T08:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx.mediafoundation\4.0.1\lib\uap10.0\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2017-05-30T08:04:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\sharpdx.xaudio2\4.0.1\lib\uap10.0\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2017-05-30T08:03:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\.nuget\packages\monogame.framework.windowsuniversal\3.8.0.1641\lib\uap10.0\MonoGame.Framework\MonoGame.Framework.WindowsUniversal.targets">
+      <PackagePath>MonoGame.Framework\MonoGame.Framework.WindowsUniversal.targets</PackagePath>
+      <Modified>2020-08-10T14:17:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\AnimRakiety.xnb">
+      <PackagePath>Content/AnimRakiety.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\control.xnb">
+      <PackagePath>Content/control.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\File.xnb">
+      <PackagePath>Content/File.xnb</PackagePath>
+      <Modified>2021-06-04T18:58:49.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\meteor.xnb">
+      <PackagePath>Content/meteor.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\niebo.xnb">
+      <PackagePath>Content/niebo.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\pocisk2D.xnb">
+      <PackagePath>Content/pocisk2D.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\rocket1.xnb">
+      <PackagePath>Content/rocket1.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:17.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\bin\WindowsStoreApp\Content\wybuch.xnb">
+      <PackagePath>Content/wybuch.xnb</PackagePath>
+      <Modified>2021-05-25T14:04:18.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\AnimRakiety.png">
+      <PackagePath>Content\AnimRakiety.png</PackagePath>
+      <Modified>2019-05-03T12:58:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\control.png">
+      <PackagePath>Content\control.png</PackagePath>
+      <Modified>2019-05-03T12:58:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\meteor.png">
+      <PackagePath>Content\meteor.png</PackagePath>
+      <Modified>2019-05-03T12:58:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\niebo.png">
+      <PackagePath>Content\niebo.png</PackagePath>
+      <Modified>2019-05-03T14:45:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\pocisk2D.png">
+      <PackagePath>Content\pocisk2D.png</PackagePath>
+      <Modified>2019-05-03T12:58:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\rocket1.png">
+      <PackagePath>Content\rocket1.png</PackagePath>
+      <Modified>2019-05-03T12:58:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-05-25T13:42:38.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:38.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:38.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:38.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:38.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:38.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-05-25T13:42:39.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Content\wybuch.wav">
+      <PackagePath>Content\wybuch.wav</PackagePath>
+      <Modified>2019-05-03T12:58:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-05-25T13:42:39.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\WolskiAstro.xr.xml">
+      <PackagePath>WolskiAstro.xr.xml</PackagePath>
+      <Modified>2021-05-25T14:37:58.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-06-05T16:08:06.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\GamePage.xbf">
+      <PackagePath>GamePage.xbf</PackagePath>
+      <Modified>2021-06-05T16:08:06.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T16:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-06-04T18:58:56.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Czarny\source\repos\WolskiAstro\WolskiAstro\bin\WindowsUniversal\x86\Debug\Core\WolskiAstro.exe">
+      <PackagePath>WolskiAstro.exe</PackagePath>
+      <Modified>2021-06-05T16:08:07.011</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Czarny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Czarny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

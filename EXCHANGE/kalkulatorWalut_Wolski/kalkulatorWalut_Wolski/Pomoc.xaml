@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="kalkulatorWalut_Wolski.Pomoc"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:kalkulatorWalut_Wolski"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Pomoc" FontSize="50" HorizontalAlignment="Center"/>
+            <TextBlock FontSize="20" HorizontalAlignment="Center" Text="Program służy do przeliczania"/>
+            <TextBlock FontSize="20" HorizontalAlignment="Center" Text="walut na podstawie aktualnie"/>
+            <TextBlock FontSize="20" HorizontalAlignment="Center" Text="obowiązujących kursów."/>
+            <TextBlock  FontSize="20" HorizontalAlignment="Center" Text="Dane o kursach są pobierane"/>
+            <TextBlock FontSize="20" HorizontalAlignment="Center" Text="i aktualizowane za pośrednictwem"/>
+            <TextBlock FontSize="20" HorizontalAlignment="Center" Text="strony Narodowego Banku Polskiego."/>
+            <TextBlock HorizontalAlignment="Center" FontSize="15" Text="Kod aktualnie wybranej waluty:"/>
+            <TextBlock HorizontalAlignment="Center" FontSize="20"  x:Name="kod"/>
+            <Button HorizontalAlignment="Center" Click="Button_Click" Content="Powrót" FontSize="20" Width="100"/>
+        </StackPanel>
+        
+
+    </Grid>
+</Page>
